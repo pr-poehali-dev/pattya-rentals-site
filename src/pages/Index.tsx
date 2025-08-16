@@ -22,8 +22,7 @@ const Index = () => {
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
         <h1 className="text-5xl md:text-7xl font-bold mb-8 text-white leading-tight animate-fade-in">
           <span className="block text-cyan-300">АРЕНДА</span>
-          <span className="block text-white">БАЙКОВ, МАШИН,</span>
-          <span className="block text-yellow-400">ЖИЛЬЯ</span>
+          <span className="block text-white">АВТО</span>
           <span className="block text-cyan-200 text-3xl md:text-4xl mt-4">в Паттайе</span>
         </h1>
         
