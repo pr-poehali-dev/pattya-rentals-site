@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const Index = () => {
   const handleTelegramClick = () => {
-    window.open('https://t.me/igorrbn', '_blank');
+    window.open('https://t.me/rental_pattaya/8645', '_blank');
   };
 
   return (
@@ -34,9 +34,9 @@ const Index = () => {
             className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white text-xl px-12 py-6 rounded-full shadow-2xl hover:shadow-cyan-500/50 transition-all duration-300 hover:scale-105"
           >
             <Icon name="Send" className="mr-3" size={24} />
-            Написать в Telegram
+            Паттайя Аренда
           </Button>
-          <p className="text-cyan-100 mt-4 text-lg">@igorrbn</p>
+          <p className="text-cyan-100 mt-4 text-lg">t.me/rental_pattaya</p>
         </div>
 
         {/* Floating icons */}
