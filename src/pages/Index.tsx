@@ -10,7 +10,7 @@ const Index = () => {
     <div 
       className="min-h-screen flex items-center justify-center relative overflow-hidden"
       style={{
-        backgroundImage: 'url(/img/40d562d6-87ae-4931-85fd-4fe95ea17738.jpg)',
+        backgroundImage: 'url(/img/a97ae133-7665-4c1c-83b2-700edde6dea3.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
@@ -22,7 +22,7 @@ const Index = () => {
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
         <h1 className="text-5xl md:text-7xl font-bold mb-8 text-white leading-tight animate-fade-in">
           <span className="block text-cyan-300">АРЕНДА</span>
-          <span className="block text-white">АВТО</span>
+          <span className="block text-white">АВТОМОБИЛЕЙ</span>
           <span className="block text-cyan-200 text-3xl md:text-4xl mt-4">в Паттайе</span>
         </h1>
         
